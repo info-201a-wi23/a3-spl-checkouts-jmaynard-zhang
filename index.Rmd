@@ -4,6 +4,8 @@ output: html_document
 ---
 I'm adding a change!
 
+I'm adding another change!
+
 ### Introduction
 
 An introduction of the data and a description of the trends/books/items you are choosing to analyze (and why!)
